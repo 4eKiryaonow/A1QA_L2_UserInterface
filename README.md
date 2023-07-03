@@ -1,1 +1,1 @@
-# L2 A1QA Internship UI project
+# L2 A1QA Internship UI autotest project
